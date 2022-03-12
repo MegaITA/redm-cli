@@ -9,7 +9,7 @@ The installation process is dead simple. First of all you need to install it glo
 npm i -g redm-cli
 ```
 
-Done. You can now use the tool by entering the following command in your terminal:
+Done. You can now use the tool by entering the following command in your terminal, be sure to be in the right folder!
 ```
 redm-cli
 ```
